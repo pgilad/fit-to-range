@@ -1,7 +1,7 @@
 {
   "name": "fit-to-range",
   "description": "Fit a number to a given range",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Gilad Peleg <giladp007@gmail.com> (http://giladpeleg.com)",
   "engines": {
     "node": ">=0.10.0"
