@@ -9,7 +9,7 @@
   "files": [
     "index.js"
   ],
-  "keywords": "number, fit, range, enforce",
+  "keywords": "number, fit, range, enforce, integer, float, Infinity",
   "license": "MIT",
   "main": "index.js",
   "repository": "pgilad/fit-to-range",
