@@ -6,6 +6,7 @@
 [![Build Status](http://img.shields.io/travis/pgilad/fit-to-range.svg?style=flat)](https://travis-ci.org/pgilad/fit-to-range)
 
 Fits a number to a given range. The (simple) algorithm is:
+
 1. If number is equal or lower than lower bound - return lower bound.
 2. If number is equal or higher than upper bound - return upper bound.
 3. Return number.
