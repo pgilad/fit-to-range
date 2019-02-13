@@ -45,4 +45,4 @@ fitted = fitToRange(10.1, 0, Infinity);
 
 ## License
 
-MIT ©[Gilad Peleg](http://giladpeleg.com)
+MIT © [Gilad Peleg](https://www.giladpeleg.com)
